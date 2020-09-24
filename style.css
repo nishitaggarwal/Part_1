@@ -1,0 +1,75 @@
+.Header{
+
+    background-color: rgb(250,250,250);
+    display:flex;
+    justify-content: space-between;
+}
+
+
+a{
+    text-decoration: none;
+   
+}
+
+h2{
+
+    font-size: 45px;     
+    margin-left: 550px;      
+    color: rgb(243, 220, 9);
+}
+
+h3{
+
+    font-size: 45px;     
+    margin-left: 550px;      
+    color: rgb(243, 220, 9);
+}
+
+
+.grid {
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+
+}
+
+
+.grid a{
+
+    font-size: 50px;
+    font-family: sans-serif;
+    color: rgb(0, 132, 255);
+}
+
+.grid2 {
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+
+}
+
+.grid2 a {
+  
+    font-family: sans-serif;
+    color: #fd80b2;
+    font-size: 30px;
+    
+}
+
+a:hover{
+    color: #00ff62;
+}
+
+.menu a{
+
+    font-size: 18px;
+    color: rgb(0, 132, 255);
+
+}
+h4{
+    font-size: 45px;     
+    margin-left: 550px;      
+    color: rgb(243, 220, 9);
+}
